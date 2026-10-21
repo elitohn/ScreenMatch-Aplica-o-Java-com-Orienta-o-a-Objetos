@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=0:0F172A,55:164E63,100:0891B2&text=ScreenMatch&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Filmes%2C%20s%C3%A9ries%20e%20Java&descAlignY=61&descSize=15" alt="Capa do projeto ScreenMatch" width="100%" />
+
+![Tecnologia](https://img.shields.io/badge/Java-0F172A?style=flat-square) ![Idioma](https://img.shields.io/badge/documentação-pt--BR-0891B2?style=flat-square) ![Tipo](https://img.shields.io/badge/projeto-de%20estudo-334155?style=flat-square)
+
+</div>
+
 # ScreenMatch – Java, Orientação a Objetos e Consumo de API
 
 Este projeto é uma aplicação em Java desenvolvida com o objetivo de praticar e consolidar os principais conceitos da Programação Orientada a Objetos (POO), manipulação de coleções de dados e integração com APIs externas.
